@@ -1,0 +1,5 @@
+#remove .png files
+*.png
+
+# ignore target files
+/target/
